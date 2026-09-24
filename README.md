@@ -41,7 +41,7 @@ Python-based school management system built during Class 11–12.
 
 **Technologies:** Python, Pandas, CSV, Matplotlib
 
-🔗 [View Project]()
+🔗 [View Project](https://github.com/BhautikCodes/School-Management-System-Python)
 
 ---
 
