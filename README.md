@@ -41,7 +41,7 @@ Python-based school management system built during Class 11–12.
 
 **Technologies:** Python, Pandas, CSV, Matplotlib
 
-🔗 [View Project](YOUR_REPOSITORY_LINK)
+🔗 [View Project]()
 
 ---
 
@@ -55,7 +55,9 @@ organized by A. D. Patel Institute of Technology.
 
 📅 10 September 2026
 
-![SIH 2026 Certificate]<img width="1363" height="1014" alt="WhatsApp Image 2026-09-24 at 10 35 35 PM" src="https://github.com/user-attachments/assets/3c58b7b9-5966-4317-8462-e2cc2ec87089" />
+![SIH 2026 Certificate]
+<img width="1363" height="1014" alt="WhatsApp Image 2026-09-24 at 10 35 35 PM" src="https://github.com/user-attachments/assets/3c58b7b9-5966-4317-8462-e2cc2ec87089" />
+
 📜 [View / Download Certificate (PDF)]([bhautik.pdf](https://github.com/user-attachments/files/32619416/bhautik.pdf))
 
 ---
@@ -72,8 +74,8 @@ organized by A. D. Patel Institute of Technology.
 
 ## 📫 Connect With Me
 
-[GitHub](YOUR_GITHUB_LINK)  
-[LinkedIn](YOUR_LINKEDIN_LINK)
+[Instagram](https://www.instagram.com/bhautik._.vadhiya_01?stkn=MTQ3cGY4dDh6bWQwaQ==)  
+[LinkedIn](www.linkedin.com/in/bhautik-vadhiya-7092b9415)
 
 ---
 
