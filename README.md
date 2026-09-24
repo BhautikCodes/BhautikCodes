@@ -58,7 +58,8 @@ organized by A. D. Patel Institute of Technology.
 ![SIH 2026 Certificate]
 <img width="1363" height="1014" alt="WhatsApp Image 2026-09-24 at 10 35 35 PM" src="https://github.com/user-attachments/assets/3c58b7b9-5966-4317-8462-e2cc2ec87089" />
 
-📜 [View / Download Certificate (PDF)]([bhautik.pdf](https://github.com/user-attachments/files/32619416/bhautik.pdf))
+📜 [View / Download Certificate (PDF)]
+[bhautik.pdf](https://github.com/user-attachments/files/32619416/bhautik.pdf)
 
 ---
 
